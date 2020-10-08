@@ -1,2 +1,2 @@
-# House-Price-Prediction-Advanced-Regression-Techniques
+# House-Price-Prediction-Advanced-Regression
 A Kaggle Regression Project
